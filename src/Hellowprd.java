@@ -3,6 +3,7 @@ public class Hellowprd {
         System.out.println("HI");
         System.out.println("hello");
         public void display(){
+            System.out.println("xxx");
 
         }
 
